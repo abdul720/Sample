@@ -14,3 +14,13 @@
   5. It facilitates quicker coding, which lowers development costs.
   
 ## Project ScreenShots:
+
+#### JsonPowerDB Dashboard:
+![image](https://user-images.githubusercontent.com/73010648/195511062-7c83e52d-e27a-480a-83f8-bb14c081399f.png)
+
+#### Employee Registratio Page(index.html):
+![image](https://user-images.githubusercontent.com/73010648/195511605-8644d676-e951-4991-9569-0e677e8d5d92.png)
+
+#### Database:
+![image](https://user-images.githubusercontent.com/73010648/195511777-63b8178d-6d2b-4355-ac1d-f025aee83bde.png)
+
